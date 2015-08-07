@@ -1,0 +1,5 @@
+xterm.*.backarrowKey: false
+URxvt.background: black
+URxvt.foreground: darkgreen
+
+
