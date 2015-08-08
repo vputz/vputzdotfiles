@@ -5,7 +5,6 @@ Config { font = "-misc-fixed-*-*-*-*-10-*-*-*-*-*-*-*"
        , fgColor = "grey"
        , position = TopW L 90
        , lowerOnStart = True
-       , pickBroadest = False
        , persistent = False
        , hideOnStart = False
        , commands = [ Run Weather "EGLC" ["-t","<station>: <tempC>C","-L","18","-H","25","--normal","green","--high","red","--low","lightblue"] 36000
